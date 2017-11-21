@@ -1,11 +1,11 @@
-# udacity_nanodegrees_project1_first_neural_network
+# Bike sharing usage amount forecast
 My first neural network project implemented just with numpy.
 
 More Read the [notebook](https://github.com/classtag/udacity_nanodegrees_project1_first_neural_network/blob/master/Your_first_neural_network.ipynb).
 
 If you want to know it more, please clone it to your computer.
 ```
-git clone https://github.com/classtag/udacity_nanodegrees_project1_first_neural_network.git
+git clone https://github.com/classtag/https://github.com/classtag/dlnd_bike_sharing_forecast.git
 ```
 Prepare for open the ipython notebook
 1. Install anaconda or miniconda
